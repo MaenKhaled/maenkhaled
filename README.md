@@ -11,7 +11,8 @@ Hi, I’m Maen Khaled
 
 💬 Ask me about data management, data integration, SQL, Python, MongoDB, or how to optimize data workflows in e-commerce.
 
-📫 How to reach me: LinkedIn
+📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/maen-khaled-9b71941a5)
+
  | GitHub
  | Email: khaledmaen87@gmail.com
 
