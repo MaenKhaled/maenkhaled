@@ -13,7 +13,7 @@ Hi, I’m Maen Khaled
 
 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/maen-khaled-9b71941a5)
 
- | GitHub
+ | [GitHub](https://github.com/MaenKhaled)
  | Email: khaledmaen87@gmail.com
 
 😄 Pronouns: he/him
